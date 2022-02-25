@@ -1,0 +1,13 @@
+
+.insuranceForm {
+    display: flex;
+    flex-direction: column;
+}
+.controlPanel {
+    display: flex;
+    margin: 10px;
+}
+.form {
+    width: 50%;
+    margin: 0 auto;
+}

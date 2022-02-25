@@ -1,0 +1,22 @@
+.hidden {
+    display: none;
+}
+
+.display {
+    display: block;
+}
+
+.errorContainer {
+    color: red;
+    margin: 8px 0px;
+}
+
+.formWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.formInput {
+    /* TODO: use value from library */
+    min-height: 30px;
+}
